@@ -11,5 +11,5 @@
 
 
 <h2> ☎️ ✉️ My contacts:</h2>
-<b> Phone : +7-903-126-55-22 <br /> Email : ivan.svininnikov.work@mail.ru <br /> Telegram : (https://t.me/ivans0406)</b>
+<b> Phone : +7-903-126-55-22 <br /> Email : ivan.svininnikov.work@mail.ru <br /> Telegram : https://t.me/ivans0406</b>
 
