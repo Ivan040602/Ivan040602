@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Ivan! </h1>
+<h3>I am a junior Data scientist and analyst. <br> Curenntly I am a 3-rd year student of the double degree programme "Data science and busines analytics" of <ins>Higher school of Economics</ins> in Moscow with <ins>London school of economics.</ins></h3>
+<h3>Below you can see my projects and works in the field of analytics, visualisation and programming:</h3>
 
-<!--
-**Ivan040602/Ivan040602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📈 Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Banks' clients segmentation (Python)</b>
+  - [Banks' clients segmentation](https://github.com/Ivan040602/Banks_clients_segmentation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📊 Visualizations</h2>
+
+
+<h2> ☎️ ✉️ My contacts:</h2>
+<b> Phone : +7-903-126-55-22 <br /> Email : ivan.svininnikov.work@mail.ru </b>
+
