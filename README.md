@@ -3,7 +3,7 @@
 Curenntly I am a 3-rd year student of the double degree programme "Data science and busines analytics" of <ins>Higher school of Economics</ins> in Moscow with <ins>London school of economics.</ins></h3>
 <h3>Below you can see my projects and works in the field of analytics and programming:</h3>
 
-<h2>📈 Analytics Projects:</h2>
+<h2>📈 Projects:</h2>
 
 - <b>Banks' clients segmentation (Python)</b>
   - [Banks' clients segmentation](https://github.com/Ivan040602/Banks_clients_segmentation)
