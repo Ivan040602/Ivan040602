@@ -6,6 +6,7 @@
 
 - <b>Banks' clients segmentation (Python)</b>
   - [Banks' clients segmentation](https://github.com/Ivan040602/Banks_clients_segmentation)
+- <b>Unsupervised learning Countries example (Python)</b>
   - [Unsupervised learning Countries example](https://github.com/Ivan040602/Unsupervised_learning_Countries_example)
 
 <h2>📊 Visualizations</h2>
