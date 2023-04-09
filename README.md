@@ -11,6 +11,8 @@ Curenntly I am a 3-rd year student of the double degree programme "Data science 
   - [Unsupervised learning Countries example](https://github.com/Ivan040602/Unsupervised_learning_Countries_example)
 - <b>Classification emloyee attrition (Python)</b>
   - [Classification emloyee attrition](https://github.com/Ivan040602/Classification_Employee_attrition)
+- <b>Regression problem Istanbul Airbnb (Python)</b>
+  - [Regression problem Istanbul Airbnb](https://github.com/Ivan040602/Regression_problem_Istanbul_Airbnb)
 <!-- 
 <h2>📊 Visualizations</h2>
 
